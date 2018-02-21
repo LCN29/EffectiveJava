@@ -5,9 +5,10 @@ import java.util.Objects;
 import java.util.Set;
 
 /**
+ * description: 披萨的上面放的东西可以从指定的素材里面进行选择
+ *
  * @author LCN
  * @date 2018-02-19 下午 04:19
- * description: 披萨的上面放的东西可以从指定的素材里面进行选择
  */
 public abstract class BasePizza {
 

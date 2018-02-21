@@ -5,9 +5,10 @@ import com.eigpay.idea.model.Student;
 import com.eigpay.idea.model.Teacher;
 
 /**
+ * description:
+ *
  * @author LCN
  * @date 2018-02-20 下午 09:09
- * description:
  */
 public class Main {
 

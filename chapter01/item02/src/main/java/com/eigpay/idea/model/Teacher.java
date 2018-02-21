@@ -1,11 +1,13 @@
 package com.eigpay.idea.model;
 
 /**
- * @author LCN
- * @date 2018-02-20 下午 08:48
  * description: JavaBean模式
  * 只提供一个无参的构造函数，
  * 所有属性提供setter方法，通过setter给属性赋值
+ *
+ * @author LCN
+ * @date 2018-02-20 下午 08:48
+ * description: JavaBean模式
  */
 public class Teacher {
 

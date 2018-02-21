@@ -3,9 +3,10 @@ package com.eigpay.idea.demo;
 import java.util.Objects;
 
 /**
+ * description:纽约风格的披萨可以指定尺寸
+ *
  * @author LCN
  * @date 2018-02-19 下午 04:19
- * description: 纽约风格的披萨可以指定尺寸
  */
 public class NyPizza extends BasePizza {
 

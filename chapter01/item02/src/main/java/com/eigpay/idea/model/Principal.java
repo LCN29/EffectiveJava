@@ -1,13 +1,13 @@
 package com.eigpay.idea.model;
 
 /**
- * @author LCN
- * @date 2018-02-20 下午 08:48
  * description: builder模式创建对象
- * 客户端创建需要的对象:
  * (1)调用构造方法(或静态工厂),填充必填参数，获得一个Builder对象
  * (2)调用builder的setter方法，填充其他非必填的参数
  * (3)调用一个无参的build方法来生成对象
+ *
+ * @author LCN
+ * @date 2018-02-20 下午 08:48
  */
 public class Principal {
 

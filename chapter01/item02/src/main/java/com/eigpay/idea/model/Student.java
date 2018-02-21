@@ -1,11 +1,12 @@
 package com.eigpay.idea.model;
 
 /**
- * @author LCN
- * @date 2018-02-20 下午 08:48
  * description: 可伸缩（telescoping constructor）构造方法模式
  * 提供一个参数中必填的构造函数，提供一个包含所有参数的构造函数，
  * 然后从必填构造函数开始不断增加非必填参数的构造函数的个数
+ *
+ * @author LCN
+ * @date 2018-02-20 下午 08:48
  */
 public class Student {
 

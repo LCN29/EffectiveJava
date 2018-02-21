@@ -6,9 +6,10 @@ import static com.eigpay.idea.demo.BasePizza.Topping.ONION;
 import static com.eigpay.idea.demo.BasePizza.Topping.SAUSAGE;
 
 /**
+ * description:
+ *
  * @author LCN
  * @date 2018-02-19 下午 04:19
- * description:
  */
 public class Main {
 

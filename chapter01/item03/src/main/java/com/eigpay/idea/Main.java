@@ -5,9 +5,10 @@ import com.eigpay.idea.singleton.Three;
 import com.eigpay.idea.singleton.Two;
 
 /**
+ * description:
+ *
  * @author LCN
  * @date 2018-02-20 下午 09:20
- * description:
  */
 public class Main {
 

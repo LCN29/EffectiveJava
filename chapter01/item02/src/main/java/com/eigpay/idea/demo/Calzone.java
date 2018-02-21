@@ -1,9 +1,10 @@
 package com.eigpay.idea.demo;
 
 /**
+ * description: 半圆形烤乳酪馅饼 可以指定是否加酱汁
+ *
  * @author LCN
  * @date 2018-02-19 下午 04:19
- * description: 半圆形烤乳酪馅饼 可以指定是否加酱汁
  */
 public class Calzone extends BasePizza {
     /** 是否加酱汁 */
