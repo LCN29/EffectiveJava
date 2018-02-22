@@ -1,4 +1,4 @@
-package com.eigpay.syntax;
+package com.eigpay.syntax.one;
 
 import java.util.Collections;
 import java.util.List;
